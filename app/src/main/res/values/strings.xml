@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Circle Area Calculator</string>
+    <string name="formula">A=πr^2</string>
+    <string name="radiusLabel">r</string>
+    <string name="radius">radius</string>
+    <string name="calculate">CALCULATE</string>
+</resources>
